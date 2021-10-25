@@ -17,6 +17,8 @@ Simple script that will pull the newest articles from the provided API every 5 m
 then map them into a format defined in the models.py file (class Article)
 and finally print them out. 
 
+This project took more or less 7 hours  to complete.
+
 
 ## Technologies Used
 - Python - version 3.8
