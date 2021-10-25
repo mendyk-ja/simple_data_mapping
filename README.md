@@ -35,7 +35,7 @@ You can easly start using this code following these instructions below (for Linu
 
 3. Type git clone, and then paste the URl given below.
 
- &nbsp; &nbsp; &nbsp; &nbsp; "git clone https://github.com/mendyk-ja/simple_data_mapping.git"
+ &nbsp; &nbsp; &nbsp; &nbsp; git clone https://github.com/mendyk-ja/simple_data_mapping.git
  
 4. Change the current working directory to the location: simple_data_mapping/.
 
