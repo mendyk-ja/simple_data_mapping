@@ -58,7 +58,7 @@ You can easly start using this code following these instructions below (for Linu
  &nbsp; &nbsp; &nbsp; &nbsp; python3 simple_data_mapping.py
 
 ## Project Status
-Project is: complete, but some improvements will be still done.
+Project is complete, but some improvements will be still done.
 
 ## Contact
 Created by [Jacek Mendyk](https://www.linkedin.com/in/jacekmendyk/) - feel free to contact me!
