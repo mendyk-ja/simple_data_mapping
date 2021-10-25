@@ -35,27 +35,27 @@ You can easly start using this code following these instructions below (for Linu
 
 3. Type git clone, and then paste the URl given below.
 
- &nbsp; &nbsp; &nbsp; &nbsp; git clone https://github.com/mendyk-ja/simple_data_mapping.git
+ &nbsp; &nbsp; &nbsp; &nbsp; `git clone https://github.com/mendyk-ja/simple_data_mapping.git`
  
 4. Change the current working directory to the location: simple_data_mapping/.
 
- &nbsp; &nbsp; &nbsp; &nbsp; cd simple_data_mapping/
+ &nbsp; &nbsp; &nbsp; &nbsp; `cd simple_data_mapping/`
 
 5. Create virtual environment for project script.
  
- &nbsp; &nbsp; &nbsp; &nbsp; virtualenv venv 
+ &nbsp; &nbsp; &nbsp; &nbsp; `virtualenv venv`
  
 6. Activate virtual environment.
  
- &nbsp; &nbsp; &nbsp; &nbsp; source venv/bin/activate
+ &nbsp; &nbsp; &nbsp; &nbsp; `source venv/bin/activate`
  
 7. Install requirements from requirements.txt
  
- &nbsp; &nbsp; &nbsp; &nbsp; pip3 install -r requirements.txt
+ &nbsp; &nbsp; &nbsp; &nbsp; `pip3 install -r requirements.txt`
  
 8. Run project script.
  
- &nbsp; &nbsp; &nbsp; &nbsp; python3 simple_data_mapping.py
+ &nbsp; &nbsp; &nbsp; &nbsp; `python3 simple_data_mapping.py`
 
 ## Project Status
 Project is complete, but some improvements will be still done.
