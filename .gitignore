@@ -1,0 +1,5 @@
+__pycache__/
+venv/
+.idea/
+dict.py
+task_api_backup.py
